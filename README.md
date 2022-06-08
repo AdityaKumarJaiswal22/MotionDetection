@@ -16,3 +16,9 @@ and output an html file containing graph of timestamp
 
 # Graph plot based on data
 ![Graph Plot](/op2.png)
+
+## Library used
+1. cv2
+2. datetime
+3. pandas
+4. bokeh
