@@ -10,3 +10,6 @@ With help of Udemy Course on python project.
 plotting.py file calls motion_detection.py
 and output an html file containing graph of timestamp
 
+![Object Detect](/op1.png)
+
+![Graph Plot](/op2.png)
